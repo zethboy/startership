@@ -1,14 +1,13 @@
-
 import Navbar from "@/components/navbar";
-import Hero from "@/components/hero";
+import HeroA from "@/components/heroA";
 import Footer from "@/components/footer";
 import Cop from "@/components/cop"
 
-export default function Home() {
+export default function About() {
   return (
-    <div className="">
+    <div>
     <Navbar />
-    <Hero />
+    <HeroA />
     <Footer />
     <Cop />
     </div>

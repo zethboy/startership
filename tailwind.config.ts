@@ -11,6 +11,9 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        nav: "#353535",
+        ijo: "#4CAF4F",
+        hero: "#1C1C1C",
       },
     },
   },
